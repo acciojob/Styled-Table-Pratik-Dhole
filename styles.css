@@ -1,1 +1,17 @@
-/* your code */
+table{
+	width:100%;
+	border-collapse:collapse;
+	border-radius:10px;
+}
+
+table {
+	border:1px solid black;
+	border-radius:10px;
+}
+thead{
+	
+	background-color:royalblue;
+	text-align:left;
+	
+}
+
